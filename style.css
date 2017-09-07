@@ -1,0 +1,45 @@
+    h1 {
+      color: black;
+      text-align: center;
+      font-size: 20px;
+    }
+    center{
+      font-size: 20px;
+    }
+
+    ul.list{
+      list-style-type: none;
+      padding: 10px 40px;
+      margin: 20px 20px;
+      text-align: center;
+    }
+    ul.list li{
+      display: inline;
+    }
+    .active{
+    color: purple;
+    font-size: 20px;
+    }
+    li {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 0px 10px;
+}
+    img {
+    float: left;
+    margin: 0 0 10px 5px;
+    padding:5px 10px;
+    border-radius: 30px;
+    }
+    body{
+      background-color:pink;
+    }
+    footer{
+      margin: 200px 20px 20px;
+      padding: 10px;
+      background-color: lightblue;
+      font-size: 15px;
+      color: purple;
+      
+    }
+
